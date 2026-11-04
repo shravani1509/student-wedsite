@@ -1,4 +1,4 @@
-var API_URL = 'PASTE_YOUR_WEB_APP_URL_HERE';
+var API_URL = 'https://script.google.com/macros/s/AKfycbznMTA89dh27uyQmPDiZSEojuzw16JMnlCK--4T-zlEEu4WaPqc7e7SXK4e2t1HNxdb/exec';
 var KEYS = ['srNo', 'rollNo', 'name', 'tenth', 'twelfth', 'sem1', 'sem2'];
 var LABELS = ['Sr No', 'Roll No', 'Student Name', '10th', '12th', 'Sem 1', 'Sem 2'];
 var students = [];
